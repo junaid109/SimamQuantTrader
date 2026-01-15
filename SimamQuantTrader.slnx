@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SimamQuantTrader.API/SimamQuantTrader.API.csproj" />
+  <Project Path="SimamQuantTrader.Core/SimamQuantTrader.Core.csproj" />
+  <Project Path="SimamQuantTrader.Launchpad/SimamQuantTrader.Launchpad.csproj" />
+</Solution>
